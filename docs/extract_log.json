@@ -1,0 +1,25 @@
+{
+ "cutter": "KSJ N03 20260101 05 (Akita), 2459 polygons dissolved",
+ "files": {
+  "veg2024bk2a.gpkg": {
+   "read_in_bbox": 23435,
+   "intersect": 5380,
+   "wholly_inside": 5217,
+   "crossing": 163,
+   "crossing_kept_after_clip": 163,
+   "crossing_dropped_no_area": 0,
+   "kept": 5380
+  },
+  "veg2024bk2b.gpkg": {
+   "read_in_bbox": 216185,
+   "intersect": 169196,
+   "wholly_inside": 167897,
+   "crossing": 1299,
+   "crossing_kept_after_clip": 1299,
+   "crossing_dropped_no_area": 0,
+   "kept": 169196
+  }
+ },
+ "rows": 174576,
+ "invalid_after": 0
+}
