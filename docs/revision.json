@@ -1,0 +1,22 @@
+{
+ "repo": "yuiseki/akita-vegetation-2024",
+ "revision": "b3b36a0fb6ff027fb1f483be3288df2df76c0cf3",
+ "sha256": {
+  "README.md": "c7dab582898af5f6b272c1f7e6856394f6c95b029e8f1b5b6e62eda7ef0ea4cb",
+  "LICENSE": "b22e1463df46d96696839d345a8abda79f5b66faa750b19df31a1ec793ab6310",
+  "provenance.yaml": "c608af1dd9783332a48cd2ab78c5145045339ac965904b820c787f759c0aa098",
+  "parquet/vegetation_akita.parquet": "e97cd813f86c31852afb130b1ebcdb53b9cf08cd55eeae7ff8f103e423674123",
+  "raw/20261028/MANIFEST.json": "44a646a3e4be3e545d0844491cf76a7e8844aa7c5af64814f51b7648ec2af7a4",
+  "raw/20261028/ckan_record.json": "a2a8016a2e29ff0cad5f22cfb2713e4a1d9ba1bac59eff23ae5b876f03bac891",
+  "docs/akita_profile.md": "9cbfcef2ace9cee21f84d1cc99b4f1038fb33dd469283e00e9960ade3d3327e0",
+  "docs/akita_profile.json": "ef910a7f006803f9d5d4774d844f82a8a8f2e31176d39b5d6fc2daa52f4350c7",
+  "docs/raw_profile.md": "f841e5c4aabd200adea9b226eab88b8baff49353df48e389891dfe8ed4dd1057",
+  "docs/raw_profile.json": "f85d132e7100dbd5d85898a586ee6f12bcec112542a1b9ec79c7556f37f3d029",
+  "docs/extract_log.json": "524df09a7d5460f387ad446ca1ae8a167d1b31a8051b94c356c856faf085fc7a",
+  "docs/legend_akita.tsv": "b02079c5991e3d942b6c1690c870c0237a76e22d25b3a3770a3fbf3950e47287",
+  "docs/legend_matches_akita.tsv": "d7bd546231fa3feb1c5cfb60510d52ef05ccf090c722ca67364662a363983707",
+  "docs/legend_all_tohoku_raw.tsv": "a37ae97249b8f1908fe9169db34456d84ddc7f513ea579a090bc15f13d7d9dc4",
+  "docs/legend_matches_tohoku_raw.tsv": "d2a4e151259a4b914af6ba5f8c62b5e06800c271ae349fde1229c8b962b7646f",
+  "docs/verify_local.json": "0b3b18de1d720246d6566fd61645280a140bbdddba0a9d701a16bb902aa12c8b"
+ }
+}
